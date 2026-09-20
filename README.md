@@ -69,12 +69,7 @@
 <img src="./assets/s-metrics.svg" alt="04 - metrics" width="100%">
 
 <p align="center">
-  <img width="57%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=majedahdab2005&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&bg_color=05080A&title_color=1BE45C&icon_color=4DFF8A&text_color=9FB8A8&border_color=1C4A2E&border_radius=12">
-  <img width="41%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majedahdab2005&layout=compact&langs_count=8&hide_title=true&bg_color=05080A&title_color=1BE45C&text_color=9FB8A8&border_color=1C4A2E&border_radius=12">
-</p>
-
-<p align="center">
-  <img width="99%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=majedahdab2005&bg_color=05080A&color=DCEFE2&line=1BE45C&point=4DFF8A&area_color=0E8F3C&area=true&hide_border=false&border_color=1C4A2E&radius=12">
+  <img width="99%" alt="GitHub metrics: contributions, commits, pull requests, reviews and languages" src="./assets/metrics.svg">
 </p>
 
 <p align="center">
