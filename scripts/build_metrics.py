@@ -88,24 +88,22 @@ def tile(x, y, w, h, value, label, delay):
     keyTimes="0;{delay / (delay + 0.5):.4f};1" fill="freeze"/>
   <rect x="{x}" y="{y}" width="{w}" height="{h}" rx="10" fill="{PANEL}" stroke="{LINE_2}" stroke-width="1.3"/>
   <rect x="{x}" y="{y}" width="3.5" height="{h}" rx="1.7" fill="{G_MAIN}" opacity="0.85"/>
-  <text x="{x + 18}" y="{y + 36}" font-family="{MONO}" font-size="25" font-weight="700" fill="{G_BRIGHT}">{value}</text>
-  <text x="{x + 18}" y="{y + 56}" font-family="{MONO}" font-size="10" fill="{DIM}" letter-spacing="1.6">{label}</text>
+  <text x="{x + 20}" y="{y + 40}" font-family="{MONO}" font-size="29" font-weight="700" fill="{G_BRIGHT}">{value}</text>
+  <text x="{x + 20}" y="{y + 60}" font-family="{MONO}" font-size="10" fill="{DIM}" letter-spacing="1.6">{label}</text>
 </g>'''
 
 
 def build(d):
     W, H = 1000, 300
     tiles = [
-        (f'{d["contributions"]:,}', "CONTRIBUTIONS"),
+        (f'{d["contributions"]:,}', "CONTRIBUTIONS / 12 MO"),
         (f'{d["commits"]:,}', "COMMITS"),
         (f'{d["prs"]:,}', "PULL REQUESTS"),
-        (f'{d["issues"]:,}', "ISSUES"),
-        (f'{d["reviews"]:,}', "REVIEWS"),
         (f'{d["repos"]:,}', "REPOSITORIES"),
     ]
-    tw, th, gap = 148, 72, 12
+    tw, th, gap = 220, 78, 14
     ts = "\n".join(
-        tile(48 + (i % 3) * (tw + gap), 92 + (i // 3) * (th + gap), tw, th, v, l, 0.2 + i * 0.09)
+        tile(48 + (i % 2) * (tw + gap), 92 + (i // 2) * (th + gap), tw, th, v, l, 0.2 + i * 0.1)
         for i, (v, l) in enumerate(tiles))
 
     bx, bw = 560, 392
