@@ -55,43 +55,43 @@
 </g></g>
 <text x="60" y="52" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#0E8F3C" letter-spacing="3">// OPEN LINE</text>
 <text x="60" y="82" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" fill="#DCEFE2" letter-spacing="1" filter="url(#softGlow)">Got something to build?</text>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="0.80s" values="0;0;1" keyTimes="0;0.3750;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="60" y="91" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="76" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAIL</text>
   <text x="130" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">majedahdab.kagu@gmail.com</text>
   <text x="490" y="108" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">PERSONAL</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="0.90s" values="0;0;1" keyTimes="0;0.4444;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="530" y="91" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="546" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAIL</text>
   <text x="600" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">contact@kagusoftware.com</text>
   <text x="960" y="108" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">COMPANY</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.00s" values="0;0;1" keyTimes="0;0.5000;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="60" y="129" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="76" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">TEL</text>
   <text x="130" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">+90 552 346 44 32</text>
   <text x="490" y="146" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">DIRECT</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.10s" values="0;0;1" keyTimes="0;0.5455;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="530" y="129" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="546" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">TEL</text>
   <text x="600" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">+90 553 553 17 92</text>
   <text x="960" y="146" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">DIRECT</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.20s" values="0;0;1" keyTimes="0;0.5833;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="60" y="167" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="76" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">WEB</text>
   <text x="130" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">kagusoftware.com</text>
   <text x="490" y="184" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">STUDIO</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.30s" values="0;0;1" keyTimes="0;0.6154;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="530" y="167" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
   <text x="546" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAP</text>
   <text x="600" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">Istanbul, Turkiye</text>
   <text x="960" y="184" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">GMT+3</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.80s" values="0;0;1" keyTimes="0;0.6667;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <text x="60" y="232" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#48604F">majed@kagu:~$ ./say-hello</text>
   <rect x="270" y="220" width="8" height="14" fill="#1BE45C"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
 </g>

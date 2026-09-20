@@ -55,7 +55,7 @@
   </circle>
 </g>
 <g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="0.75s" values="0;0;1" keyTimes="0;0.3333;1" calcMode="linear" fill="freeze"/>
+  
   <rect x="48.0" y="104" width="129.2" height="40" rx="8" fill="#0A100C" stroke="#1C4A2E" stroke-width="1.4"/>
   <rect x="48.0" y="104" width="129.2" height="40" rx="8" fill="none" stroke="#1BE45C" stroke-width="1.4" opacity="0">
     <animate attributeName="opacity" begin="1.05s" dur="3.2s" repeatCount="indefinite" values="0;0.85;0"/>
@@ -63,7 +63,7 @@
   <text x="112.6" y="129" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#DCEFE2">React Native</text>
 </g>
 <g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="0.93s" values="0;0;1" keyTimes="0;0.4624;1" calcMode="linear" fill="freeze"/>
+  
   <rect x="264.0" y="104" width="113.0" height="40" rx="8" fill="#0A100C" stroke="#1C4A2E" stroke-width="1.4"/>
   <rect x="264.0" y="104" width="113.0" height="40" rx="8" fill="none" stroke="#1BE45C" stroke-width="1.4" opacity="0">
     <animate attributeName="opacity" begin="1.23s" dur="3.2s" repeatCount="indefinite" values="0;0.85;0"/>
@@ -71,7 +71,7 @@
   <text x="320.5" y="129" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#DCEFE2">Expo + EAS</text>
 </g>
 <g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="1.11s" values="0;0;1" keyTimes="0;0.5495;1" calcMode="linear" fill="freeze"/>
+  
   <rect x="463.8" y="104" width="96.8" height="40" rx="8" fill="#0A100C" stroke="#1C4A2E" stroke-width="1.4"/>
   <rect x="463.8" y="104" width="96.8" height="40" rx="8" fill="none" stroke="#1BE45C" stroke-width="1.4" opacity="0">
     <animate attributeName="opacity" begin="1.41s" dur="3.2s" repeatCount="indefinite" values="0;0.85;0"/>
@@ -79,7 +79,7 @@
   <text x="512.1" y="129" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#DCEFE2">Supabase</text>
 </g>
 <g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="1.29s" values="0;0;1" keyTimes="0;0.6124;1" calcMode="linear" fill="freeze"/>
+  
   <rect x="647.3" y="104" width="113.0" height="40" rx="8" fill="#0A100C" stroke="#1C4A2E" stroke-width="1.4"/>
   <rect x="647.3" y="104" width="113.0" height="40" rx="8" fill="none" stroke="#1BE45C" stroke-width="1.4" opacity="0">
     <animate attributeName="opacity" begin="1.59s" dur="3.2s" repeatCount="indefinite" values="0;0.85;0"/>
@@ -87,7 +87,7 @@
   <text x="703.8" y="129" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#DCEFE2">RevenueCat</text>
 </g>
 <g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="1.47s" values="0;0;1" keyTimes="0;0.6599;1" calcMode="linear" fill="freeze"/>
+  
   <rect x="847.1" y="104" width="104.9" height="40" rx="8" fill="#0A100C" stroke="#1C4A2E" stroke-width="1.4"/>
   <rect x="847.1" y="104" width="104.9" height="40" rx="8" fill="none" stroke="#1BE45C" stroke-width="1.4" opacity="0">
     <animate attributeName="opacity" begin="1.77s" dur="3.2s" repeatCount="indefinite" values="0;0.85;0"/>
@@ -95,67 +95,67 @@
   <text x="899.6" y="129" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#DCEFE2">Expo Push</text>
 </g>
 <text x="48" y="178" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#0E8F3C" letter-spacing="3">// ALSO IN THE TOOLBOX</text>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.45s" values="0;0;1" keyTimes="0;0.6897;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="48.0" y="196" width="99.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="59.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="68.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">TypeScript</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.51s" values="0;0;1" keyTimes="0;0.7020;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="157.0" y="196" width="99.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="168.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="177.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Next.js 16</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.57s" values="0;0;1" keyTimes="0;0.7134;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="266.0" y="196" width="84.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="277.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="286.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">React 19</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.63s" values="0;0;1" keyTimes="0;0.7239;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="360.0" y="196" width="106.5" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="371.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="380.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Tailwind v4</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.69s" values="0;0;1" keyTimes="0;0.7337;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="476.5" y="196" width="129.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="487.5" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="496.5" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Postgres + RLS</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.75s" values="0;0;1" keyTimes="0;0.7429;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="615.5" y="196" width="84.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="626.5" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="635.5" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Electron</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.81s" values="0;0;1" keyTimes="0;0.7514;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="709.5" y="196" width="91.5" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="720.5" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="729.5" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Turborepo</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.87s" values="0;0;1" keyTimes="0;0.7594;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="811.0" y="196" width="69.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="822.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="831.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Vercel</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.93s" values="0;0;1" keyTimes="0;0.7668;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="890.0" y="196" width="54.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="901.0" cy="209.5" r="2.6" fill="#0E8F3C"/>
   <text x="910.0" y="214" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Node</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.99s" values="0;0;1" keyTimes="0;0.7739;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="48.0" y="232" width="61.5" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="59.0" cy="245.5" r="2.6" fill="#0E8F3C"/>
   <text x="68.0" y="250" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Figma</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.05s" values="0;0;1" keyTimes="0;0.7805;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="119.5" y="232" width="99.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="130.5" cy="245.5" r="2.6" fill="#0E8F3C"/>
   <text x="139.5" y="250" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">i18n / RTL</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.11s" values="0;0;1" keyTimes="0;0.7867;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="228.5" y="232" width="46.5" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="239.5" cy="245.5" r="2.6" fill="#0E8F3C"/>
   <text x="248.5" y="250" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Zod</text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.17s" values="0;0;1" keyTimes="0;0.7926;1" calcMode="linear" fill="freeze"/>
+<g opacity="1">
   <rect x="285.0" y="232" width="69.0" height="27" rx="13.5" fill="#0B140F" stroke="#12291C" stroke-width="1.2"/>
   <circle cx="296.0" cy="245.5" r="2.6" fill="#0E8F3C"/>
   <text x="305.0" y="250" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6E8C79">Vitest</text>
