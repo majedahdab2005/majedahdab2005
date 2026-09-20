@@ -88,7 +88,3 @@
   <a href="https://wa.me/905523464432"><img alt="WhatsApp" src="https://img.shields.io/badge/+90%20552%20346%2044%2032-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=whatsapp&logoColor=1BE45C"></a>
   <a href="https://kagusoftware.com"><img alt="Website" src="https://img.shields.io/badge/KAGUSOFTWARE.COM-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=vercel&logoColor=1BE45C"></a>
 </p>
-
-<div align="center">
-  <sub><code>designed, drawn and shipped by me. every pixel on this page is hand written SVG.</code></sub>
-</div>
