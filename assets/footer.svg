@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Contact Majed Ahdab">
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#12291C" stroke-width="1" opacity="0.85"/></pattern>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1BE45C" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#1BE45C" stop-opacity="0.16"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0E8F3C" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#1BE45C"/>
+    <stop offset="100%" stop-color="#0E8F3C" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="2.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="logoGlow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <radialGradient id="halo2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#1BE45C" stop-opacity="0.22"/><stop offset="100%" stop-color="#0E8F3C" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="260" rx="14" fill="#05080A"/>
+<rect width="1000" height="260" rx="14" fill="url(#grid)" opacity="0.4"/>
+<ellipse cx="500.0" cy="260" rx="480" ry="150" fill="url(#halo2)">
+  <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/>
+</ellipse>
+<rect x="0.75" y="0.75" width="998.5" height="258.5" rx="14" fill="none" stroke="#1C4A2E" stroke-width="1.5"/>
+<g transform="translate(838.70,1.51) scale(0.08830)" filter="url(#logoGlow)">
+<g transform="translate(0,1254) scale(0.1,-0.1)">
+<g opacity="1">
+<path fill="#0E8F3C" d="M1787 6962 l-507 -507 0 -9 0 -10 15 20 15 19 -6 -17 -6 -18 1042 0
+1042 0 -124 118 -123 118 -412 387 -412 387 -11 0 -11 0 6 10 6 10 -3 0 -3 0
+-508 -508z"/>
+</g>
+<g opacity="1">
+<path fill="#15A846" d="M2294 7458 l-5 -8 11 0 11 0 402 -377 402 -377 110 -106 110 -105
+360 -336 360 -336 190 -175 190 -175 33 -28 32 -27 18 13 17 13 75 71 76 70
+174 160 175 160 80 75 80 75 184 170 183 170 8 3 8 3 -331 317 -331 317 -233
+223 -233 223 -1076 -3 -1075 -2 -5 -8z"/>
+<path fill="#15A846" d="M7875 5648 l-268 -248 -523 0 -524 0 73 -68 72 -68 155 -145 155
+-145 205 -189 205 -189 25 -24 24 -24 81 -53 80 -53 59 -26 58 -26 67 -21 66
+-20 105 -14 105 -15 855 1 855 0 -100 97 -100 97 -430 406 -430 405 -255 240
+-255 239 -47 45 -46 45 -267 -247z"/>
+</g>
+<g opacity="1">
+<path fill="#1BE45C" d="M8670 8850 l-245 -7 -64 -17 -63 -16 -67 -26 -66 -27 -82 -50 -83
+-50 -69 -61 -68 -61 -254 -240 -254 -240 -465 -435 -465 -435 -150 -140 -150
+-140 -170 -160 -170 -160 -171 -155 -170 -155 -190 -176 -189 -175 -129 -120
+-128 -119 -72 -64 -71 -64 -83 -79 -83 -78 1554 0 1554 0 240 223 240 222 258
+240 259 240 121 110 121 110 175 161 174 161 119 109 119 109 142 130 142 130
+399 364 399 365 45 42 45 41 225 204 224 204 153 138 152 138 6 9 5 8 -1227
+-1 -1228 -1 -245 -6z"/>
+</g>
+</g></g>
+<text x="60" y="52" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#0E8F3C" letter-spacing="3">// OPEN LINE</text>
+<text x="60" y="82" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" fill="#DCEFE2" letter-spacing="1" filter="url(#softGlow)">Got something to build?</text>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="0.80s" values="0;0;1" keyTimes="0;0.3750;1" calcMode="linear" fill="freeze"/>
+  <rect x="60" y="91" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="76" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAIL</text>
+  <text x="130" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">majedahdab.kagu@gmail.com</text>
+  <text x="490" y="108" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">PERSONAL</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="0.90s" values="0;0;1" keyTimes="0;0.4444;1" calcMode="linear" fill="freeze"/>
+  <rect x="530" y="91" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="546" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAIL</text>
+  <text x="600" y="108" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">contact@kagusoftware.com</text>
+  <text x="960" y="108" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">COMPANY</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.00s" values="0;0;1" keyTimes="0;0.5000;1" calcMode="linear" fill="freeze"/>
+  <rect x="60" y="129" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="76" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">TEL</text>
+  <text x="130" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">+90 552 346 44 32</text>
+  <text x="490" y="146" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">DIRECT</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.10s" values="0;0;1" keyTimes="0;0.5455;1" calcMode="linear" fill="freeze"/>
+  <rect x="530" y="129" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="546" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">TEL</text>
+  <text x="600" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">+90 553 553 17 92</text>
+  <text x="960" y="146" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">DIRECT</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.20s" values="0;0;1" keyTimes="0;0.5833;1" calcMode="linear" fill="freeze"/>
+  <rect x="60" y="167" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="76" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">WEB</text>
+  <text x="130" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">kagusoftware.com</text>
+  <text x="490" y="184" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">STUDIO</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.30s" values="0;0;1" keyTimes="0;0.6154;1" calcMode="linear" fill="freeze"/>
+  <rect x="530" y="167" width="3" height="22" fill="#1BE45C" opacity="0.8"/>
+  <text x="546" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#0E8F3C" letter-spacing="1.6">MAP</text>
+  <text x="600" y="184" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#DCEFE2">Istanbul, Turkiye</text>
+  <text x="960" y="184" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#48604F" letter-spacing="1.4">GMT+3</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.80s" values="0;0;1" keyTimes="0;0.6667;1" calcMode="linear" fill="freeze"/>
+  <text x="60" y="232" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#48604F">majed@kagu:~$ ./say-hello</text>
+  <rect x="270" y="220" width="8" height="14" fill="#1BE45C"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0.55">
+  <rect x="0" y="-70" width="1000" height="70" fill="url(#scan)">
+    <animate attributeName="y" values="-70;260" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<rect x="0" y="257" width="1000" height="3" fill="url(#edge)" opacity="0.8"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" width="320" height="150" role="img" aria-label="Kagu Software">
+<defs><filter id="logoGlow" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter></defs>
+<g transform="translate(-5.43,-43.11) scale(0.19868)" filter="url(#logoGlow)">
+<g transform="translate(0,1254) scale(0.1,-0.1)">
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="0.90s" values="0;0;1" keyTimes="0;0.0000;1" calcMode="linear" fill="freeze"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="1.10s" values="-260 0;-260 0;0 0" keyTimes="0;0.0000;1" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1" fill="freeze"/>
+<path fill="#0E8F3C" d="M1787 6962 l-507 -507 0 -9 0 -10 15 20 15 19 -6 -17 -6 -18 1042 0
+1042 0 -124 118 -123 118 -412 387 -412 387 -11 0 -11 0 6 10 6 10 -3 0 -3 0
+-508 -508z"/>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.08s" values="0;0;1" keyTimes="0;0.1667;1" calcMode="linear" fill="freeze"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="1.28s" values="-260 0;-260 0;0 0" keyTimes="0;0.1406;1" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1" fill="freeze"/>
+<path fill="#15A846" d="M2294 7458 l-5 -8 11 0 11 0 402 -377 402 -377 110 -106 110 -105
+360 -336 360 -336 190 -175 190 -175 33 -28 32 -27 18 13 17 13 75 71 76 70
+174 160 175 160 80 75 80 75 184 170 183 170 8 3 8 3 -331 317 -331 317 -233
+223 -233 223 -1076 -3 -1075 -2 -5 -8z"/>
+<path fill="#15A846" d="M7875 5648 l-268 -248 -523 0 -524 0 73 -68 72 -68 155 -145 155
+-145 205 -189 205 -189 25 -24 24 -24 81 -53 80 -53 59 -26 58 -26 67 -21 66
+-20 105 -14 105 -15 855 1 855 0 -100 97 -100 97 -430 406 -430 405 -255 240
+-255 239 -47 45 -46 45 -267 -247z"/>
+</g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="1.26s" values="0;0;1" keyTimes="0;0.2857;1" calcMode="linear" fill="freeze"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="1.46s" values="-260 0;-260 0;0 0" keyTimes="0;0.2466;1" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1" fill="freeze"/>
+<path fill="#1BE45C" d="M8670 8850 l-245 -7 -64 -17 -63 -16 -67 -26 -66 -27 -82 -50 -83
+-50 -69 -61 -68 -61 -254 -240 -254 -240 -465 -435 -465 -435 -150 -140 -150
+-140 -170 -160 -170 -160 -171 -155 -170 -155 -190 -176 -189 -175 -129 -120
+-128 -119 -72 -64 -71 -64 -83 -79 -83 -78 1554 0 1554 0 240 223 240 222 258
+240 259 240 121 110 121 110 175 161 174 161 119 109 119 109 142 130 142 130
+399 364 399 365 45 42 45 41 225 204 224 204 153 138 152 138 6 9 5 8 -1227
+-1 -1228 -1 -245 -6z"/>
+</g>
+</g></g>
+</svg>
