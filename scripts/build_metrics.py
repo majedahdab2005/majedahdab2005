@@ -84,8 +84,6 @@ def collect(user):
 
 def tile(x, y, w, h, value, label, delay):
     return f'''<g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="{delay + 0.5:.2f}s" values="0;0;1"
-    keyTimes="0;{delay / (delay + 0.5):.4f};1" fill="freeze"/>
   <rect x="{x}" y="{y}" width="{w}" height="{h}" rx="10" fill="{PANEL}" stroke="{LINE_2}" stroke-width="1.3"/>
   <rect x="{x}" y="{y}" width="3.5" height="{h}" rx="1.7" fill="{G_MAIN}" opacity="0.85"/>
   <text x="{x + 20}" y="{y + 40}" font-family="{MONO}" font-size="29" font-weight="700" fill="{G_BRIGHT}">{value}</text>
@@ -114,16 +112,10 @@ def build(d):
         fill = max(6.0, bw * pct / 100)
         delay = 0.5 + i * 0.1
         bars.append(f'''<g opacity="1">
-  <animate attributeName="opacity" begin="0s" dur="{delay + 0.5:.2f}s" values="0;0;1"
-    keyTimes="0;{delay / (delay + 0.5):.4f};1" fill="freeze"/>
   <text x="{bx}" y="{y}" font-family="{MONO}" font-size="12" fill="{TXT}">{name}</text>
   <text x="{bx + bw}" y="{y}" text-anchor="end" font-family="{MONO}" font-size="12" fill="{DIM}">{pct}%</text>
   <rect x="{bx}" y="{y + 6}" width="{bw}" height="6" rx="3" fill="#0C1710"/>
-  <rect x="{bx}" y="{y + 6}" width="{fill:.1f}" height="6" rx="3" fill="{shades[i % len(shades)]}">
-    <animate attributeName="width" begin="0s" dur="{delay + 0.9:.2f}s" values="0;0;{fill:.1f}"
-      keyTimes="0;{delay / (delay + 0.9):.4f};1" calcMode="spline"
-      keySplines="0 0 1 1;0.16 1 0.3 1" fill="freeze"/>
-  </rect>
+  <rect x="{bx}" y="{y + 6}" width="{fill:.1f}" height="6" rx="3" fill="{shades[i % len(shades)]}"/>
 </g>''')
 
     stamp = datetime.now(timezone.utc).strftime("%d %b %Y %H:%M UTC")
