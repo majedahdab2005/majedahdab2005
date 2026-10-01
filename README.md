@@ -9,7 +9,7 @@ majed@kagu:~$ whoami
 
 # Majed Ahdab
 
-**Software Engineer and co-founder of [Kagu Software](https://kagusoftware.com).** Head of Design, Frontend and UX, and Head of Communication. Full-stack underneath.
+**Software Engineer and co-founder of [Kagu Software](https://kagusoftware.com).** I build full-stack web and mobile products with Next.js, TypeScript, React Native, Expo and Supabase for clients in real estate, hospitality, e-commerce and travel. Seeking 2027 new grad / SWE intern roles.
 
 Istanbul, TR · EN / TR / AR · Software Engineering at Bahcesehir University, class of '27
 
@@ -17,39 +17,33 @@ Istanbul, TR · EN / TR / AR · Software Engineering at Bahcesehir University, c
 <a href="https://github.com/KaguSoftware"><img alt="Org" src="https://img.shields.io/badge/@KaguSoftware-0E8F3C?style=flat-square&labelColor=05080A&logo=github&logoColor=1BE45C"></a>
 <a href="mailto:majedahdab.kagu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-0E8F3C?style=flat-square&labelColor=05080A&logo=gmail&logoColor=1BE45C"></a>
 
-I run the outside of the company and the front of the product.
-
-**Communication** is mine: clients, partners, and every external thread Kagu pulls. **Design, frontend and UX** are mine: if it has a surface, it goes through me before it goes live. Under that I am still full stack. Backend, data, infra, whatever the ship date needs.
-
 ```json
 {
-  "owns": {
-    "communication": "clients, partners, every external thread the company pulls",
-    "design": "brand and product visual language, end to end",
-    "frontend": "every interface that ships, ships through me",
-    "ux": "nothing goes live without a UX pass"
-  },
-  "but_also": "full-stack, throw anything at me",
-  "status": "building · shipping · repeat"
+  "focus": "full-stack web and mobile products",
+  "stack": ["TypeScript", "Next.js", "React Native", "Supabase", "PostgreSQL"],
+  "also": "design, UX and client communication",
+  "seeking": "2027 new grad / SWE intern roles"
 }
 ```
 
 ## // stack
 
-Mobile first, idea to store on one stack: **React Native · Expo + EAS · Supabase · RevenueCat · Expo Push**
+**TypeScript · React · Next.js · React Native · Expo · Supabase · PostgreSQL (RLS)**
 
-Also in the toolbox: TypeScript, Next.js 16, React 19, Tailwind v4, Postgres with RLS, Electron, Turborepo, Vercel, Node, Figma, i18n and RTL, Zod, Vitest.
+Also in the toolbox: Node, Tailwind v4, Electron, pnpm and Turborepo, Zod, Vitest, Playwright, Git and GitHub Actions, i18n and RTL, Figma.
 
 ## // selected work
 
-| | Project | What it is | Stack |
-|---|---|---|---|
-| 01 | [TouchPadel](https://github.com/KaguSoftware/TouchPadel) | Padel venue OS in Iraq: booking app, QR cafe ordering and a Windows operator desk. EN / AR, full RTL. | React Native, Expo, Next.js, Electron, Supabase |
-| 02 | [Kagu OS](https://github.com/KaguSoftware/KaguOs) | The company's own internal operating system. Clients, projects and delivery all run through it. | Next.js, TypeScript, Vercel |
-| 03 | [Real Estate Manager](https://github.com/KaguSoftware/Real-Estate-Manager) | Multi-tenant SaaS for Turkish agencies: listings, leads, leases, rent and client-ready PDF contracts. | Next.js 16, React 19, Supabase, RLS, Zod |
-| 04 | [UpperDeck](https://github.com/KaguSoftware/UpperDeck) | Digital menu and POS for a diner: mobile menu with call-a-waiter bell, staff roles and Telegram alerts. | Next.js, Tailwind v4, Supabase, Telegram API |
-| 05 | [Kagu website](https://github.com/KaguSoftware/Kagu-website) | kagusoftware.com, the studio's own front door. Design, copy and build, start to finish. | Next.js, TypeScript, Motion |
-| 06 | [The rest of it](https://github.com/KaguSoftware) | Everything else we ship lives in the org: client work, internal tools, experiments. | |
+| | Project | What it is | My part | Stack |
+|---|---|---|---|---|
+| 01 | [TouchPadel](https://github.com/KaguSoftware/TouchPadel) ([live](https://touch-padel.com)) | Padel club and cafe system in Karbala, Iraq: guest mobile app, QR table-ordering website and Windows operator app in one pnpm and Turborepo monorepo. EN / AR with RTL. | 237 of 872 commits, 96 of 268 DB migrations. The repo runs CI on every PR, nightly DB drift checks and signed Electron releases. | React Native, Expo, Next.js, Electron, Supabase |
+| 02 | [Kagu website](https://github.com/KaguSoftware/Kagu-website) ([live](https://kagusoftware.com)) | Company site with a 3D animated hero, live project-price builder, custom CMS admin panel and an automated SEO tool. | 136 of 207 commits | Next.js, TypeScript, Node.js |
+| 03 | [UpperDeck](https://github.com/KaguSoftware/UpperDeck) ([live](https://upperdeckk.com)) | Digital menu and POS for an American diner in a Turkish market, built in five weeks: call-a-waiter bell, staff roles, Telegram alerts. | 140 of 225 commits, 15 of 27 DB migrations | Next.js, Tailwind v4, Supabase, Telegram API |
+| 04 | [Sabrina Turizm](https://github.com/KaguSoftware/sabrina-tourism) ([live](https://sabrinaturizm.com)) | Boutique tourism platform: package builder, WhatsApp booking handoff, PDF tour plans, admin with AI-translated vouchers. | 147 of 345 commits, localized into 10 languages | Next.js, Supabase, Vercel, WhatsApp API |
+| 05 | [KaguOS](https://github.com/KaguSoftware/KaguOs) | Internal operations platform: work, management, marketing, messaging and learning, with a client view and reminders. | 51 of 211 commits | Next.js, TypeScript, Supabase |
+| 06 | [Real Estate Manager](https://github.com/KaguSoftware/Real-Estate-Manager) | Multi-tenant SaaS for Turkish real estate agencies: listings, leads, leases, rent tracking and PDF contracts. | Built the frontend, about 70 of 244 commits | Next.js 16, React 19, Supabase, RLS, Zod |
+
+More client work and internal tools live in the [KaguSoftware org](https://github.com/KaguSoftware).
 
 ## // metrics
 
