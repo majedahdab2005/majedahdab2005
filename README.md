@@ -1,90 +1,73 @@
 <!--
   majedahdab2005 / profile README
-  built green on purpose. if you are reading the source, hi.
-  stack: hand written SVG, no templates, no generators.
+  green on purpose, just quieter now. if you are reading the source, hi.
 -->
 
-<div align="center">
-  <img src="./assets/header.svg" alt="Majed Ahdab - Software Engineer, Co-founder of Kagu Software" width="100%">
-</div>
+```
+majed@kagu:~$ whoami
+```
 
-<p align="center">
-  <a href="https://kagusoftware.com"><img alt="Website" src="https://img.shields.io/badge/KAGUSOFTWARE.COM-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=googlechrome&logoColor=1BE45C"></a>
-  <a href="mailto:majedahdab.kagu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=gmail&logoColor=1BE45C"></a>
-  <a href="https://github.com/KaguSoftware"><img alt="Org" src="https://img.shields.io/badge/@KAGUSOFTWARE-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=github&logoColor=1BE45C"></a>
-  <img alt="Location" src="https://img.shields.io/badge/ISTANBUL,%20TR-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=googlemaps&logoColor=1BE45C">
-  <img alt="Languages" src="https://img.shields.io/badge/EN%20%C2%B7%20TR%20%C2%B7%20AR-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=googletranslate&logoColor=1BE45C">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=majedahdab2005&style=for-the-badge&color=0E8F3C&labelColor=05080A&label=VISITORS">
-</p>
+# Majed Ahdab
 
-<img src="./assets/s-whoami.svg" alt="01 - whoami" width="100%">
+**Software Engineer and co-founder of [Kagu Software](https://kagusoftware.com).** Head of Design, Frontend and UX, and Head of Communication. Full-stack underneath.
 
-<img src="./assets/roles.svg" alt="Co-founder, head of communication, design, frontend and UX at Kagu Software" width="100%">
+Istanbul, TR · EN / TR / AR · Software Engineering at Bahcesehir University, class of '27
 
-> I run the outside of the company and the front of the product.
->
-> **Communication** is mine: clients, partners, and every external thread Kagu pulls.
-> **Design, frontend and UX** are mine: if it has a surface, it goes through me before it goes live.
-> Under that I am still full stack. Backend, data, infra, whatever the ship date needs.
+<a href="https://kagusoftware.com"><img alt="Website" src="https://img.shields.io/badge/kagusoftware.com-0E8F3C?style=flat-square&labelColor=05080A"></a>
+<a href="https://github.com/KaguSoftware"><img alt="Org" src="https://img.shields.io/badge/@KaguSoftware-0E8F3C?style=flat-square&labelColor=05080A&logo=github&logoColor=1BE45C"></a>
+<a href="mailto:majedahdab.kagu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-0E8F3C?style=flat-square&labelColor=05080A&logo=gmail&logoColor=1BE45C"></a>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+I run the outside of the company and the front of the product.
 
-<img src="./assets/s-stack.svg" alt="02 - stack" width="100%">
+**Communication** is mine: clients, partners, and every external thread Kagu pulls. **Design, frontend and UX** are mine: if it has a surface, it goes through me before it goes live. Under that I am still full stack. Backend, data, infra, whatever the ship date needs.
 
-<img src="./assets/stack.svg" alt="Production stack: React Native, Expo and EAS, Supabase, RevenueCat, Expo Push" width="100%">
+```json
+{
+  "owns": {
+    "communication": "clients, partners, every external thread the company pulls",
+    "design": "brand and product visual language, end to end",
+    "frontend": "every interface that ships, ships through me",
+    "ux": "nothing goes live without a UX pass"
+  },
+  "but_also": "full-stack, throw anything at me",
+  "status": "building · shipping · repeat"
+}
+```
 
-<img src="./assets/divider.svg" alt="" width="100%">
+## // stack
 
-<img src="./assets/s-work.svg" alt="03 - selected work" width="100%">
+Mobile first, idea to store on one stack: **React Native · Expo + EAS · Supabase · RevenueCat · Expo Push**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware/TouchPadel"><img src="./assets/p-touchpadel.svg" alt="TouchPadel" width="100%"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware/KaguOs"><img src="./assets/p-kaguos.svg" alt="KaguOs" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware/Real-Estate-Manager"><img src="./assets/p-emlak.svg" alt="Real Estate Manager" width="100%"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware/UpperDeck"><img src="./assets/p-upperdeck.svg" alt="UpperDeck" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware/Kagu-website"><img src="./assets/p-kagusite.svg" alt="Kagu website" width="100%"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KaguSoftware"><img src="./assets/p-more.svg" alt="The rest of it" width="100%"></a>
-    </td>
-  </tr>
-</table>
+Also in the toolbox: TypeScript, Next.js 16, React 19, Tailwind v4, Postgres with RLS, Electron, Turborepo, Vercel, Node, Figma, i18n and RTL, Zod, Vitest.
 
-<img src="./assets/divider.svg" alt="" width="100%">
+## // selected work
 
-<img src="./assets/s-metrics.svg" alt="04 - metrics" width="100%">
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 01 | [TouchPadel](https://github.com/KaguSoftware/TouchPadel) | Padel venue OS in Iraq: booking app, QR cafe ordering and a Windows operator desk. EN / AR, full RTL. | React Native, Expo, Next.js, Electron, Supabase |
+| 02 | [Kagu OS](https://github.com/KaguSoftware/KaguOs) | The company's own internal operating system. Clients, projects and delivery all run through it. | Next.js, TypeScript, Vercel |
+| 03 | [Real Estate Manager](https://github.com/KaguSoftware/Real-Estate-Manager) | Multi-tenant SaaS for Turkish agencies: listings, leads, leases, rent and client-ready PDF contracts. | Next.js 16, React 19, Supabase, RLS, Zod |
+| 04 | [UpperDeck](https://github.com/KaguSoftware/UpperDeck) | Digital menu and POS for a diner: mobile menu with call-a-waiter bell, staff roles and Telegram alerts. | Next.js, Tailwind v4, Supabase, Telegram API |
+| 05 | [Kagu website](https://github.com/KaguSoftware/Kagu-website) | kagusoftware.com, the studio's own front door. Design, copy and build, start to finish. | Next.js, TypeScript, Motion |
+| 06 | [The rest of it](https://github.com/KaguSoftware) | Everything else we ship lives in the org: client work, internal tools, experiments. | |
 
-<p align="center">
-  <img width="99%" alt="GitHub metrics: contributions, commits, pull requests, reviews and languages" src="./assets/metrics.svg">
-</p>
+## // metrics
 
-<p align="center">
-  <img width="99%" alt="Contribution snake" src="https://raw.githubusercontent.com/majedahdab2005/majedahdab2005/output/snake.svg">
-</p>
+<img src="./assets/metrics.svg" alt="GitHub metrics: contributions, commits, pull requests, reviews and languages" width="100%">
 
-<img src="./assets/divider.svg" alt="" width="100%">
+## // contact
 
-<img src="./assets/s-contact.svg" alt="05 - contact" width="100%">
+Got something to build?
 
-<img src="./assets/footer.svg" alt="Contact Majed Ahdab" width="100%">
+| | |
+|---|---|
+| Personal mail | [majedahdab.kagu@gmail.com](mailto:majedahdab.kagu@gmail.com) |
+| Company mail | [contact@kagusoftware.com](mailto:contact@kagusoftware.com) |
+| WhatsApp | [+90 552 346 44 32](https://wa.me/905523464432) |
+| Phone | +90 553 553 17 92 |
+| Web | [kagusoftware.com](https://kagusoftware.com) |
+| Location | Istanbul, Turkiye (GMT+3) |
 
-<p align="center">
-  <a href="mailto:majedahdab.kagu@gmail.com"><img alt="Personal mail" src="https://img.shields.io/badge/majedahdab.kagu@gmail.com-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=gmail&logoColor=1BE45C"></a>
-  <a href="mailto:contact@kagusoftware.com"><img alt="Company mail" src="https://img.shields.io/badge/contact@kagusoftware.com-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=maildotru&logoColor=1BE45C"></a>
-  <a href="https://wa.me/905523464432"><img alt="WhatsApp" src="https://img.shields.io/badge/+90%20552%20346%2044%2032-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=whatsapp&logoColor=1BE45C"></a>
-  <a href="https://kagusoftware.com"><img alt="Website" src="https://img.shields.io/badge/KAGUSOFTWARE.COM-05080A?style=for-the-badge&labelColor=05080A&color=0E8F3C&logo=vercel&logoColor=1BE45C"></a>
-</p>
+```
+majed@kagu:~$ ./say-hello
+```
